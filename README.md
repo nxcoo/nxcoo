@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @nxcoo
-- 🌱 I’m currently learning how to create website
-- 📫 Contact me in Discord: NicOx.#9640
+I am a student and I like programming and I am studying more and more.
