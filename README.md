@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Hello+there.;I'm+kadri24;Roblox+Developer;Discord+Bot+Developer;Full-Stack+Developer)](https://git.io/typing-svg)
 
-# Hello there! I'm Kadri24 👋
+# Hello there! I'm Nicholas 👋
 Everything you see here is made with my own hands.
 
 
