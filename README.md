@@ -1,15 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Hello+there.;I'm+kadri24;Roblox+Developer;Discord+Bot+Developer;Full-Stack+Developer)](https://git.io/typing-svg)
-
 # Hello there! I'm Nicholas 👋
 Everything you see here is made with my own hands.
 
 
 ## About me
-🎮 I **create games and projects** mostly in Roblox, across any genre. I've also made projets in **Unity** and **Unreal Engine**<br>
-🤖 I **create Discord bots** mostly for myself, but I've also taken commissions and helped my friends by making bots they needed.<br>
-📒 I'm **full-stack developer**.<br>
-🚀 My code is **always performant, clean and easy to maintain**.<br>
-🙂 I love **learning more every day** to make my journey richer.
+
 <hr>
 
 ## What I use ⚒
