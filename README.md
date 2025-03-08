@@ -31,7 +31,7 @@ Everything you see here is made with my own hands.
 ## Contact 📬
 📌 Do you have an idea, a project or simply want to have a chat? Write to me, I am always open to new collaborations and creative ideas! <br>
 🔗 Here are also useful links if you would like to reach me out!
-* [LinkedIn](https://www.linkedin.com/in/kadri24/)
+* [LinkedIn]((https://www.linkedin.com/in/nicholas-puppo-21a0682b7/))
 * [Discord](https://discordapp.com/users/844621633888845856/)
 * [Instagram](https://www.instagram.com/nicholaspuppoo/)
 * [Gmail](nicholaspuppo.work@gmail.com)
