@@ -3,7 +3,6 @@
 # Hello there! I'm Kadri24 👋
 Everything you see here is made with my own hands.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kadri24)](https://git.io/streak-stats)
 
 ## About me
 🎮 I **create games and projects** mostly in Roblox, across any genre. I've also made projets in **Unity** and **Unreal Engine**<br>
