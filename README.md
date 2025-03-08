@@ -23,7 +23,6 @@ Everything you see here is made with my own hands.
 
 ### Tools
 <p dir="auto">
-  <a href="https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="40"></a>
   <a href="https://www.vmware.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1200px-Vmware_workstation_16_icon.svg.png" height="40"></a>
   <a href="https://www.virtualbox.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" height="40"></a>
 </p>
