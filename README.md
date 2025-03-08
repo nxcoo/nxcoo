@@ -29,12 +29,8 @@ Everything you see here is made with my own hands.
 
 ### Photo and Video Editing
 <p dir="auto">
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/800px-Adobe_Photoshop_CC_icon.svg.png" height="40"></a>
   <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png" height="40"></a>
-  <a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" height="40"></a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/800px-DaVinci_Resolve_Studio.png" height="40"></a>
   <a href="https://www.capcut.com/"><img src="https://upload.wikimedia.org/wikipedia/id/3/36/CapCut_logo.png" height="40"></a>
-  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" height="40"></a>
 </p>
 <hr>
 
